@@ -12,7 +12,6 @@ Ce TP a pour but de vous familiariser avec les bases de la conception d'infrastr
 ### Partie 1 : Conteneurisation d'une Application Web
 
 #### Récupération et lancement de l’app :
-- Créer un fork du repo https://github.com/choucroute-volante/hetic-infra-2
 - Lancer l’application et vérifier son bon fonctionnement
 
 #### Création du Dockerfile :
